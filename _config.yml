@@ -36,3 +36,5 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - minima-reboot.gemspec
+
+theme: jekyll-theme-minimal
