@@ -38,4 +38,3 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - minima-reboot.gemspec
->>>>>>> 43cdace (Initial commit)
